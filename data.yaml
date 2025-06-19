@@ -1,0 +1,8 @@
+train: shujuji/train/images
+val: shujuji/valid/images
+test: shujuji/test/images
+
+nc: 2
+names: ['Pantograph-arcing', 'ROI']
+
+ 
